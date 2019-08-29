@@ -11,4 +11,6 @@ void main()
 	printf("Test commit command!!!");
 
 	printf("Test commit command1!!!");
+
+	printf("Test commit command2!!!");
 }
