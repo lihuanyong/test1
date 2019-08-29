@@ -9,4 +9,6 @@ void main()
 	printf("This is a nice word!!!");
   
 	printf("Test commit command!!!");
+
+	printf("Test commit command1!!!");
 }
