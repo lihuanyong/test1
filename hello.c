@@ -7,4 +7,6 @@ void main()
 	printf("This is a wonderful world!!!");
 
 	printf("This is a nice word!!!");
+  
+	printf("Test commit command!!!");
 }
